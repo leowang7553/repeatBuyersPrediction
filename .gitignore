@@ -1,0 +1,7 @@
+# datasets
+datasets/
+.vscode/
+.dccache
+
+# prediction result
+*.csv
